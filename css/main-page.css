@@ -4,7 +4,7 @@ body{
 
 @font-face {
     font-family: determination;
-    src: url("fonts/determination_mono.otf");
+    src: url(fonts/determination_mono.otf);
 }
 
 .progress{
