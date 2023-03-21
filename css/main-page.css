@@ -4,7 +4,7 @@ body{
 
 @font-face {
     font-family: determination;
-    src: url("C:/Users/fathi/OneDrive/Dokumente/GitHub/deltarune-german/fonts/determination_mono.otf");
+    src: url("fonts/determination_mono.otf");
 }
 
 .progress{
