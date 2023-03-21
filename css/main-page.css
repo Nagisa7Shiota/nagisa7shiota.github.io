@@ -5,6 +5,8 @@ body{
 @font-face {
     font-family: determination;
     src: url(fonts/determination_mono.otf);
+    font-style: normal;
+    font-weight: normal;
 }
 
 .progress{
