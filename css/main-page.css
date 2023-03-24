@@ -14,14 +14,20 @@ body{
 .header-point{
     background-color: rgb(73, 73, 73);
     margin-top: 0%;
-    font-size: 7vh;
+    font-size: 3vh;
 }
 
 .link-text{
     font-family: determination;
     text-decoration: none;
-    color: yellow;
+    color: white;
     font-size: inherit;
+    position: relative;
+    left: 35%;
+}
+
+.link-text-clicked{
+    color: yellow;
 }
 
 .padder{
