@@ -1,5 +1,7 @@
 body{
     background-color: black;
+    size: 100%;
+    margin: auto;
 }
 
 @font-face {
@@ -7,6 +9,23 @@ body{
     src: url(fonts/determination_mono.otf);
     font-style: normal;
     font-weight: normal;
+}
+
+.header-point{
+    background-color: rgb(73, 73, 73);
+    margin-top: 0%;
+    font-size: 7vh;
+}
+
+.link-text{
+    font-family: determination;
+    text-decoration: none;
+    color: yellow;
+    font-size: inherit;
+}
+
+.padder{
+    padding: 2vw;
 }
 
 .progress{
