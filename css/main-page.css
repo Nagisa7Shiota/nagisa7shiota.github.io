@@ -17,6 +17,13 @@ body{
     font-size: 3vh;
 }
 
+.link{
+    font-family: determination;
+    text-decoration: none;
+    color: yellow;
+    font-size: inherit;
+}
+
 .link-text{
     font-family: determination;
     text-decoration: none;
