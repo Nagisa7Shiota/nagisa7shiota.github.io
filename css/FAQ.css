@@ -1,0 +1,22 @@
+.FAQ-text {
+    color: white;
+    font-family: determination;
+    font-size: 1vw;
+    text-align: left;
+    margin-left: 16vw;
+    margin-right: 16vw;
+}
+
+.FAQ-header {
+    color: yellow;
+    font-family: determination;
+    font-size: 4vw;
+    text-align: center;
+}
+
+.FAQ-sub {
+    color: yellow;
+    font-family: determination;
+    font-size: 2vw;
+    text-align: center;
+}

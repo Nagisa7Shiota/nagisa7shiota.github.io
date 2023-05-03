@@ -1,4 +1,4 @@
-body{
+body {
     background-color: black;
     size: 100%;
     margin: auto;
@@ -11,20 +11,20 @@ body{
     font-weight: normal;
 }
 
-.header-point{
+.header-point {
     background-color: rgb(73, 73, 73);
     margin-top: 0%;
     font-size: 3vh;
 }
 
-.link{
+.link {
     font-family: determination;
     text-decoration: none;
     color: yellow;
     font-size: inherit;
 }
 
-.link-text{
+.link-text {
     font-family: determination;
     text-decoration: none;
     color: white;
@@ -33,15 +33,15 @@ body{
     left: 35%;
 }
 
-.link-text-clicked{
+.link-text-clicked {
     color: yellow;
 }
 
-.padder{
+.padder {
     padding: 2vw;
 }
 
-.progress{
+.progress {
     position: fixed;
     top: 50%;
     left: 50%;
