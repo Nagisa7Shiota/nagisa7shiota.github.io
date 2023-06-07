@@ -1,9 +1,3 @@
-body {
-    background-color: black;
-    size: 100%;
-    margin: auto;
-}
-
 @font-face {
     font-family: determination;
     src: url(fonts/determination_mono.otf);
