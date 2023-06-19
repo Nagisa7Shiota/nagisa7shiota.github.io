@@ -5,6 +5,10 @@
     font-weight: normal;
 }
 
+.body{
+    background-color: black;
+}
+
 .deltarune-text {
     font-family: determination;
     text-decoration: none;
